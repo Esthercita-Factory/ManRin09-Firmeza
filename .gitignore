@@ -1,0 +1,20 @@
+# .NET / C#
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+.vs/
+.idea/
+*.user
+*.userosscache
+*.sln.docstates
+
+# Angular / Node
+node_modules/
+ClientApp/node_modules/
+.angular/
+ClientApp/.angular/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
